@@ -14,12 +14,4 @@ internal enum GameType{
     Multiplication, 
     Division, 
     Random
-
-}
-
-internal enum DifficultyLevels{
-    Easy, 
-    Normal, 
-    Hard
-
 }
